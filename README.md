@@ -3,7 +3,7 @@
 - Relevant Courses:
   Introduction to Computer Programming (Java), Algorithms and data structures, Discrete Math, Linear Algebra, Math Analisys.
 - Languages:
-  Java, C++, Bash, SQL.
+  Java, C++, SQL.
 - Technology: Git, LaTeX, OpenMP
 - 📫 How to reach me
   - https://vk.com/peton_666
